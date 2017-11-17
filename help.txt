@@ -5,3 +5,5 @@ taki plik testowy
 :P
 
 PLIK POMOCY DO TESTOWANIA ZMIANIA NANIESIONA NA GICIE WWWW
+
+taka zamian na pliku na lokalnym rezpozyorium
